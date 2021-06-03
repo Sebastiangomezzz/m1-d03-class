@@ -44,9 +44,11 @@ console.log(calculateSide(8, 6))
 
 const numbersArray = [4,2,6,9,5]
 
-const numbersArraySorted = numbersArray.slice().sort();
-console.log(numbersArraySorted);
-
+function findSecondHAndL(numbersArray) {
+    const numbersArraySorted = numbersArray.slice().sort();
+    
+}
+console
 // const numbersArray = [4,2,6,9,5]
 // function secondNumbers(numbersArray) {
 //     let secondHighNum = 0;
